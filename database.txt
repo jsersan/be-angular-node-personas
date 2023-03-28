@@ -1,0 +1,8 @@
+create table persona(
+    id: varchar(8) primary key,
+    nombre: varchar(20),
+    apellido: varchar(30),
+    email: varchar(20),
+    tipoDocumento: varchar(5),
+    fechaNacimiento: date
+)
