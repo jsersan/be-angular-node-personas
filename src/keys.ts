@@ -1,9 +1,8 @@
 const database = {
-    host: '127.0.0.1',
-    port: 8889,
-    user: 'root',
-    password: 'root',
-    database: 'supermercado'
+    host: 'qaht103.txemaserrano.com',
+    user: 'qaht103',
+    password: 'Jss12aoz',
+    database: 'qaht103'
 }
 
 export default database;
